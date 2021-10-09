@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1822" alt="harshit1822" /></a> </p>
 
+
+
 - 🔭 I’m currently working on **AIMT STUDENTS PORTLE**
 
 - 🌱 I’m currently learning **JavaScript, C++, Node.js, React.js, Vue.js, Mongodb, Css, Html5, Java, AWS**
