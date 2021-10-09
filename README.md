@@ -9,6 +9,7 @@
 
 
 
+
 - 🔭 I’m currently working on **AIMT STUDENTS PORTLE**
 
 - 🌱 I’m currently learning **JavaScript, C++, Node.js, React.js, Vue.js, Mongodb, Css, Html5, Java, AWS**
@@ -20,6 +21,11 @@
 - 📫 How to reach me **1822sharma@gmail.com**
 
 - ⚡ Fun fact **You Are Funny... 😏😏😏**
+
+
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit1822&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +43,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit1822&" alt="harshit1822" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1822&layout=compact)](https://github.com/harshit1822/github-readme-stats)
