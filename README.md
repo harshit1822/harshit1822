@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1822" alt="harshit1822" /></a> </p>
 
 <br>
-![digital-digital-art-artwork-illustration-abstract-hd-wallpaper-preview](https://user-images.githubusercontent.com/85814554/139519283-e2bfeaa1-6c85-4081-baf8-e7e3cfa5745b.jpg)
+
 
 
 
