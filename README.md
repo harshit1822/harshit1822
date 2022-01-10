@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **AIMT STUDENTS PORTLE**
 
-- 🌱 I’m currently learning **JavaScript, C++, Node.js, React.js, Vue.js, Mongodb, Css, Html5, Java, AWS**
+- 🌱 I’m currently learning **JavaScript, C++, Node.js, Mongodb, Css, Html5, Java**
 
 - 👯 I’m looking to collaborate on **BLOCKCHAIN PROJECTS**
 
