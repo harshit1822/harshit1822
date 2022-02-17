@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
 <br>
-<h3 align="center">CEARTOR😇 has CREATED 😎ME just to CREAT something GREAT😋 for it's CREATIONS😏</h3>
+<h3 align="center">CREATOR😇 has CREATED 😎ME just to CREATE something GREAT😋 for it's CREATIONS😏</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1822&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1822" /> </p>
